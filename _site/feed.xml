@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mate con medialunas</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 Sep 2016 11:37:51 +0100</pubDate>
+    <lastBuildDate>Wed, 21 Sep 2016 11:37:51 +0100</lastBuildDate>
+    <generator>Jekyll v2.1.1</generator>
+    
+      <item>
+        <title>Hola mundo</title>
+        <description>&lt;p&gt;Hola mundo, he nacido. Soy un post nuevo que ve la luz, entrecierro los ojos para que no me deslumbre y uso mis pequeñas manos para proteger mis ojos mientras me acostumbro. Se hablar, junto letras con cierto sentido y las separo en pequeños grupitos para que tu luego puedas darle un significado. Si no has salido corriendo a usar Google translator, quiere decir que estamos ya tenemos algo en común, me entiendes y eso es bueno, quiere decir que puedo expresarme y tu entenderme.&lt;/p&gt;
+
+&lt;p&gt;Han pasado unos segundos, soy un post, la luz ya no me deslumbra, me siento a duras penas y contemplo una sala vacía, se hablar pero no hay nadie para recibir lo que tengo que decir y digo ‘Hola mundo’ a unas paredes que me devuelven el sonido mediante el eco. Me extraño por que estaba seguro que le hablaba a alguien, me rasco la cabeza, me encojo de hombros y vuelvo a sentir que alguien está leyendo lo que pienso. &lt;/p&gt;
+
+&lt;p&gt;Han pasado otro rato, puedo caminar y sigo siendo el mismo post. Ya no me importa si estoy solo o si no hay nadie para escucharme, aunque sepa hablar no necesito hablar, estoy convencido que alguien lee lo que ocurre dentro de mi y ya no me siento solo. &lt;/p&gt;
+
+&lt;p&gt;Vuelve a pasar el tiempo, me siento débil, creo que estoy muriendo, lo sé por que has perdido el interés, pero no importa por que tarde o temprano alguien más volverá a leer ‘Hola mundo’ y volveré a nacer. Antes de que pierdas el interés del todo y me olvides, te dejo una foto que me hicieron cuando nací.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Hola mundo&amp;#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 21 Sep 2016 11:00:00 +0100</pubDate>
+        <link>http://localhost:4000/posts/hola-mundo/</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/hola-mundo/</guid>
+        
+        <category>relatos-cortos</category>
+        
+        <category>posts</category>
+        
+        <category>es</category>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
