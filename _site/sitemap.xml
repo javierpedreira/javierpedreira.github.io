@@ -3,7 +3,7 @@
 
   
   <url>
-    <loc>http://localhost:4000/posts/hola-mundo/</loc>
+    <loc>http://javistark.github.io/posts/hola-mundo/</loc>
     
       <lastmod>2016-09-21</lastmod>
     
@@ -25,7 +25,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/sitemap.xml</loc>
+      <loc>http://javistark.github.io/sitemap.xml</loc>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
