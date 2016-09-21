@@ -1,9 +1,7 @@
 ---
-bg: "tools.jpg"
 layout: post
 title:  "Hola mundo"
 crawlertitle: "Una forma de relatar un Hola mundo"
-summary: "Hola mundo"
 date:   2016-09-21 10:00:00
 categories: posts
 tags: ['relatos-cortos', 'posts', 'es']

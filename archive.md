@@ -1,5 +1,4 @@
 ---
-bg: "tag.jpg"
 layout: page
 permalink: /posts/
 title: "Archivo"
