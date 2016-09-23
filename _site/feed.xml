@@ -6,19 +6,19 @@
 </description>
     <link>http://javierpedreira.github.io/</link>
     <atom:link href="http://javierpedreira.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2016 12:52:11 +0100</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 12:52:11 +0100</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2016 13:05:12 +0100</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 13:05:12 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
         <title>La Narrativa Del Codigo</title>
         <description>&lt;p&gt;Me gusta escribir, he de admitir que no escribo por diversión tanto como me gustaría o debería, pero es una actividad mental que me permite relajarme y quitarle los cerrojos a mi mente de tanto en tanto. Escribí mi primer relato con 8 o 9 años en un cuaderno a doble línea al que incluso le dibujé una portada.  Aquel relato era una mezcolanza entre diferentes películas y series de televisión que veía por aquella epoca. Tardé un tiempo y era tan ridículo como podía ser un relato escrito por un niño. Sin embargo era mi relato y disfruté mucho el proceso. &lt;/p&gt;
 
-&lt;p&gt;Con el paso de los años he escrito de forma esporádica, participé un par de veces en los concursos que sé organizaban en mi instituto cuando sé acercaba San Jordi. Una época muy colorida en Barcelona, ciudad donde he vivido la mayor parte de mi vida. &lt;/p&gt;
+&lt;p&gt;Con el paso de los años he escrito de forma esporádica, participé un par de veces en los concursos que se organizaban en mi instituto cuando se acercaba San Jordi. Una época muy colorida en Barcelona, ciudad donde he vivido la mayor parte de mi vida. &lt;/p&gt;
 
 &lt;p&gt;Al llegar a mi vida adulta escogí la informática como el medio para ganarme el pan, específicamente el desarrollo de software. Siempre enfoqué el proceso de una forma analítica. Escribes un algoritmo, una serie de pasos o instrucciones que pueden estar o no condicionadas, que pueden ser o no iterativas, que pueden seguir unos patrones de diseño u otros y que siguen las convenciones de la tecnología escogida para proponer una solución a un problema concreto.  Es una forma natural de ver el desarrollo del software, pero no es la única forma de hacerlo.&lt;/p&gt;
 
-&lt;p&gt;Existe un punto de vista interesante, es una filosofía personal y sé ajusta muy bien a mi hobby de juventud. Enfocar el desarrollo desde un punto de vista narrativo me da varias ventajas, la primera me da libertad para ser más creativo, ingenioso, mejora mucho la legibilidad del código, y facilita el proceso de refactorización ya que al ser más legible, es fácil encontrar errores o identificar comportamientos similares que pueden ser encapsulados en métodos auxiliares. &lt;/p&gt;
+&lt;p&gt;Existe un punto de vista interesante, es una filosofía personal y se ajusta muy bien a mi hobby de juventud. Enfocar el desarrollo desde un punto de vista narrativo me da varias ventajas, la primera me da libertad para ser más creativo, ingenioso, mejora mucho la legibilidad del código, y facilita el proceso de refactorización ya que al ser más legible, es fácil encontrar errores o identificar comportamientos similares que pueden ser encapsulados en métodos auxiliares. &lt;/p&gt;
 
 &lt;p&gt;Este párrafo puede que haga levantar las cejas a alguno, es un punto de vista personal, un truquillo que me ayuda, especialmente cuando conozco los pasos que un programa debe seguir pero aun no tengo la solución final en mi cabeza. O es posible que conozca la solución al problema pero no sé cual es la mejor forma de estructurarla. &lt;/p&gt;
 
@@ -64,7 +64,7 @@
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;pikachu&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;PI&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;radio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Esta es difícil, especialmente porque no siempre es posible, cuantos menos parámetros tenga una función, será mucho más fácil escribir unit tests, esto sé aprecia mejor cuando desarrollas usando técnicas de TDD. Te deseo suerte si decides testear una función con 5 parámetros.&lt;/p&gt;
+&lt;p&gt;Esta es difícil, especialmente porque no siempre es posible, cuantos menos parámetros tenga una función, será mucho más fácil escribir unit tests, esto se aprecia mejor cuando desarrollas usando técnicas de TDD. Te deseo suerte si decides testear una función con 5 parámetros.&lt;/p&gt;
 
 &lt;p&gt;Si necesita comentarios es que hay una mejor forma de hacerlo. Esta es la más importante y la que resume mejor esta idea de programar.  Cuando abusamos de los comentarios, es porque nos damos cuenta que el código no es lo suficientemente expresivo para explicar por sí mismo lo que hace. Si me encuentro ante una situación así, me paro y pienso si hay una forma más sencilla de expresarme. A veces es difícil, a veces es fácil, a veces inevitable.&lt;/p&gt;
 
@@ -77,7 +77,7 @@
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Este codigo sirve para calcular el area del círculo&lt;/span&gt;
   &lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Math&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;acos&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;r&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Sé que algunas de estas ideas son de sentido común, pero es en conjunto donde se ve que funcionan bien, cuando soy capaz de leer a simple vista un programa y entiendo lo que está ocurriendo sin profundizar excesivamente en los detalles técnicos, mi niño interior, que escribía por diversión sé siente un poco más contento.&lt;/p&gt;
+&lt;p&gt;Sé que algunas de estas ideas son de sentido común, pero es en conjunto donde se ve que funcionan bien, cuando soy capaz de leer a simple vista un programa y entiendo lo que está ocurriendo sin profundizar excesivamente en los detalles técnicos, mi niño interior, que escribía por diversión se siente un poco más contento.&lt;/p&gt;
 </description>
         <pubDate>Fri, 23 Sep 2016 10:20:11 +0100</pubDate>
         <link>http://javierpedreira.github.io/posts/La-narrativa-del-codigo/</link>
