@@ -1,5 +1,6 @@
 ---
 layout: post
+title:  'La narrativa del código'
 categories: posts
 date: 2016-09-23 09:20:11
 author: Javier Pedreira
