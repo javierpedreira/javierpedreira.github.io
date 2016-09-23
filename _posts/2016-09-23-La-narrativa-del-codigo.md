@@ -8,17 +8,17 @@ tags: posts
 summary: Entendiendo el codigo desde la perspectiva de los relatos
 ---
 
-Me gusta escribir, he de admitir que no escribo por diversión tanto como me gustaría o debería, pero es una actividad mental que me permite relajarme y quitarle los cerrojos a mi mente de tanto en tanto. Escribí mi primer relato con 8 o 9 años en un cuaderno a doble línea al que incluso le dibujé una portada.  Aquel relato era una mezcolanza entre diferentes películas y series de televisión que veía por aquella epoca. Tardé un tiempo y era tan ridículo como podía ser un relato escrito por un niño. Sin embargo era mi relato y disfruté mucho el proceso. 
+Me gusta escribir, he de admitir que no escribo por diversión tanto como me gustaría o debería, pero es una actividad mental que me permite relajarme y quitarle los cerrojos a mi mente de tanto en tanto. Escribí mi primer relato con 8 o 9 años en un cuaderno a doble línea al que incluso le dibujé una portada. Aquel relato era una mezcolanza entre diferentes películas y series de televisión que veía por aquella epoca. Tardé un tiempo y era tan ridículo como podía ser un relato escrito por un niño. Sin embargo era mi relato y disfruté mucho el proceso. 
 
 Con el paso de los años he escrito de forma esporádica, participé un par de veces en los concursos que se organizaban en mi instituto cuando se acercaba San Jordi. Una época muy colorida en Barcelona, ciudad donde he vivido la mayor parte de mi vida. 
 
-Al llegar a mi vida adulta escogí la informática como el medio para ganarme el pan, específicamente el desarrollo de software. Siempre enfoqué el proceso de una forma analítica. Escribes un algoritmo, una serie de pasos o instrucciones que pueden estar o no condicionadas, que pueden ser o no iterativas, que pueden seguir unos patrones de diseño u otros y que siguen las convenciones de la tecnología escogida para proponer una solución a un problema concreto.  Es una forma natural de ver el desarrollo del software, pero no es la única forma de hacerlo.
+Al llegar a mi vida adulta escogí la informática como el medio para ganarme el pan, específicamente el desarrollo de software. Siempre enfoqué el proceso de una forma analítica. Escribes un algoritmo, una serie de pasos o instrucciones que pueden estar o no condicionadas, que pueden ser o no iterativas, que pueden seguir unos patrones de diseño u otros y que siguen las convenciones de la tecnología escogida para proponer una solución a un problema concreto. Es una forma natural de ver el desarrollo del software, pero no es la única forma de hacerlo.
 
 Existe un punto de vista interesante, es una filosofía personal y se ajusta muy bien a mi hobby de juventud. Enfocar el desarrollo desde un punto de vista narrativo me da varias ventajas, la primera me da libertad para ser más creativo, ingenioso, mejora mucho la legibilidad del código, y facilita el proceso de refactorización ya que al ser más legible, es fácil encontrar errores o identificar comportamientos similares que pueden ser encapsulados en métodos auxiliares. 
 
 Este párrafo puede que haga levantar las cejas a alguno, es un punto de vista personal, un truquillo que me ayuda, especialmente cuando conozco los pasos que un programa debe seguir pero aun no tengo la solución final en mi cabeza. O es posible que conozca la solución al problema pero no sé cual es la mejor forma de estructurarla. 
 
-Para que funcione mejor, me aplico una serie de reglas que coinciden(no casualmente) con algunas de las reglas de programación en Clean Code, extraídas del libro de Uncle Bob. 
+Para que funcione mejor, me aplico una serie de reglas que coinciden (no casualmente) con algunas de las reglas de programación en Clean Code, extraídas del libro de Uncle Bob. 
 
 Las funciones deben hacer una sola cosa, sin efectos colaterales ocultos, y su nombre debe describir lo que hace, esto facilita el testeo y reduce la posibilidad de que ocurran cosas inesperadas cuando usamos una determinada función en un contexto nuevo. Por ejemplo:
     
