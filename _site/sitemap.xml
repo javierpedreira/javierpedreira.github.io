@@ -3,7 +3,16 @@
 
   
   <url>
-    <loc>http://javistark.github.io/posts/hola-mundo/</loc>
+    <loc>http://javierpedreira.github.io/posts/La-narrativa-del-codigo/</loc>
+    
+      <lastmod>2016-09-23</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://javierpedreira.github.io/posts/hola-mundo/</loc>
     
       <lastmod>2016-09-21</lastmod>
     
@@ -25,7 +34,7 @@
   
     
     <url>
-      <loc>http://javistark.github.io/sitemap.xml</loc>
+      <loc>http://javierpedreira.github.io/sitemap.xml</loc>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
     </url>
