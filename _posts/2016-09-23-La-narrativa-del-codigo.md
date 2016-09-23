@@ -3,9 +3,9 @@ layout: post
 categories: posts
 date: 2016-09-23 09:20:11
 author: Javier Pedreira
-crawlertitle: La narrativa del codigo
+crawlertitle: La narrativa del código
 tags: posts
-summary: Entendiendo el codigo desde la perspectiva de los relatos
+summary: Entendiendo el código desde la perspectiva de los relatos
 ---
 
 Me gusta escribir, he de admitir que no escribo por diversión tanto como me gustaría o debería, pero es una actividad mental que me permite relajarme y quitarle los cerrojos a mi mente de tanto en tanto. Escribí mi primer relato con 8 o 9 años en un cuaderno a doble línea al que incluso le dibujé una portada. Aquel relato era una mezcolanza entre diferentes películas y series de televisión que veía por aquella epoca. Tardé un tiempo y era tan ridículo como podía ser un relato escrito por un niño. Sin embargo era mi relato y disfruté mucho el proceso. 
@@ -38,7 +38,7 @@ Mal
   end
 {% endhighlight %}
 
-Los nombres de las funciones deben ser verbos y deben ser nombres concretos, las vaguedades te dan vía libre a crear acoplamientos innecesarios y en general a crear codigo que es difícil de testear, debugar y mantener. 
+Los nombres de las funciones deben ser verbos y deben ser nombres concretos, las vaguedades te dan vía libre a crear acoplamientos innecesarios y en general a crear código que es difícil de testear, debugar y mantener. 
 
 Bien
 {% highlight ruby %}
@@ -79,7 +79,7 @@ Bien
 
 Mal
 {% highlight ruby %}
-  # Este codigo sirve para calcular el area del círculo
+  # Este código sirve para calcular el area del círculo
   v = Math.acos(0) * (r * r)
 {% endhighlight %}
 

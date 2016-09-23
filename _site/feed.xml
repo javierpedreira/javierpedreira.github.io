@@ -6,8 +6,8 @@
 </description>
     <link>http://javierpedreira.github.io/</link>
     <atom:link href="http://javierpedreira.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2016 13:14:24 +0100</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 13:14:24 +0100</lastBuildDate>
+    <pubDate>Fri, 23 Sep 2016 13:19:11 +0100</pubDate>
+    <lastBuildDate>Fri, 23 Sep 2016 13:19:11 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -39,7 +39,7 @@
     &lt;span class=&quot;no&quot;&gt;Rodillo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;amasar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;masa_pizza&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Los nombres de las funciones deben ser verbos y deben ser nombres concretos, las vaguedades te dan vía libre a crear acoplamientos innecesarios y en general a crear codigo que es difícil de testear, debugar y mantener. &lt;/p&gt;
+&lt;p&gt;Los nombres de las funciones deben ser verbos y deben ser nombres concretos, las vaguedades te dan vía libre a crear acoplamientos innecesarios y en general a crear código que es difícil de testear, debugar y mantener. &lt;/p&gt;
 
 &lt;p&gt;Bien&lt;/p&gt;
 
@@ -74,7 +74,7 @@
 
 &lt;p&gt;Mal&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Este codigo sirve para calcular el area del círculo&lt;/span&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Este código sirve para calcular el area del círculo&lt;/span&gt;
   &lt;span class=&quot;n&quot;&gt;v&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Math&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;acos&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;r&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Sé que algunas de estas ideas son de sentido común, pero es en conjunto donde se ve que funcionan bien, cuando soy capaz de leer a simple vista un programa y entiendo lo que está ocurriendo sin profundizar excesivamente en los detalles técnicos, mi niño interior, que escribía por diversión se siente un poco más contento.&lt;/p&gt;
