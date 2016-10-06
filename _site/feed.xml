@@ -6,23 +6,23 @@
 </description>
     <link>http://javierpedreira.github.io/</link>
     <atom:link href="http://javierpedreira.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Sep 2016 13:20:46 +0100</pubDate>
-    <lastBuildDate>Fri, 23 Sep 2016 13:20:46 +0100</lastBuildDate>
+    <pubDate>Thu, 06 Oct 2016 15:10:38 +0100</pubDate>
+    <lastBuildDate>Thu, 06 Oct 2016 15:10:38 +0100</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
         <title>La narrativa del código</title>
-        <description>&lt;p&gt;Me gusta escribir, he de admitir que no escribo por diversión tanto como me gustaría o debería, pero es una actividad mental que me permite relajarme y quitarle los cerrojos a mi mente de tanto en tanto. Escribí mi primer relato con 8 o 9 años en un cuaderno a doble línea al que incluso le dibujé una portada. Aquel relato era una mezcolanza entre diferentes películas y series de televisión que veía por aquella epoca. Tardé un tiempo y era tan ridículo como podía ser un relato escrito por un niño. Sin embargo era mi relato y disfruté mucho el proceso. &lt;/p&gt;
+        <description>&lt;p&gt;Me gusta escribir, he de admitir que no escribo por diversión tanto como me gustaría o debería, pero es una actividad mental que me permite relajarme y quitarle los cerrojos a mi mente de tanto en tanto. Escribí mi primer relato con 8 o 9 años en un cuaderno a doble línea al que incluso le dibujé una portada. Aquel relato era una mezcolanza entre diferentes películas y series de televisión que veía por aquella epoca. Tardé un tiempo y era tan ridículo como podía ser un relato escrito por un niño. Sin embargo era mi relato y disfruté mucho el proceso.&lt;/p&gt;
 
-&lt;p&gt;Con el paso de los años he escrito de forma esporádica, participé un par de veces en los concursos que se organizaban en mi instituto cuando se acercaba San Jordi. Una época muy colorida en Barcelona, ciudad donde he vivido la mayor parte de mi vida. &lt;/p&gt;
+&lt;p&gt;Con el paso de los años he escrito de forma esporádica, participé un par de veces en los concursos que se organizaban en mi instituto cuando se acercaba San Jordi, una época muy colorida en Barcelona, ciudad donde he vivido la mayor parte de mi vida.&lt;/p&gt;
 
 &lt;p&gt;Al llegar a mi vida adulta escogí la informática como el medio para ganarme el pan, específicamente el desarrollo de software. Siempre enfoqué el proceso de una forma analítica. Escribes un algoritmo, una serie de pasos o instrucciones que pueden estar o no condicionadas, que pueden ser o no iterativas, que pueden seguir unos patrones de diseño u otros y que siguen las convenciones de la tecnología escogida para proponer una solución a un problema concreto. Es una forma natural de ver el desarrollo del software, pero no es la única forma de hacerlo.&lt;/p&gt;
 
-&lt;p&gt;Existe un punto de vista interesante, es una filosofía personal y se ajusta muy bien a mi hobby de juventud. Enfocar el desarrollo desde un punto de vista narrativo me da varias ventajas, la primera me da libertad para ser más creativo, ingenioso, mejora mucho la legibilidad del código, y facilita el proceso de refactorización ya que al ser más legible, es fácil encontrar errores o identificar comportamientos similares que pueden ser encapsulados en métodos auxiliares. &lt;/p&gt;
+&lt;p&gt;Existe un punto de vista interesante, es una filosofía personal y se ajusta muy bien a mi hobby de juventud. Enfocar el desarrollo desde un punto de vista narrativo me da varias ventajas, la primera me da libertad para ser más creativo, ingenioso, mejora mucho la legibilidad del código, y facilita el proceso de refactorización ya que al ser más legible, es fácil encontrar errores o identificar comportamientos similares que pueden ser encapsulados en métodos auxiliares.&lt;/p&gt;
 
-&lt;p&gt;Este párrafo puede que haga levantar las cejas a alguno, es un punto de vista personal, un truquillo que me ayuda, especialmente cuando conozco los pasos que un programa debe seguir pero aun no tengo la solución final en mi cabeza. O es posible que conozca la solución al problema pero no sé cual es la mejor forma de estructurarla. &lt;/p&gt;
+&lt;p&gt;Este párrafo puede que haga levantar las cejas a alguno, es un punto de vista personal, un truquillo que me ayuda, especialmente cuando conozco los pasos que un programa debe seguir pero aun no tengo la solución final en mi cabeza. O es posible que conozca la solución al problema pero no sé cual es la mejor forma de estructurarla.&lt;/p&gt;
 
-&lt;p&gt;Para que funcione mejor, me aplico una serie de reglas que coinciden (no casualmente) con algunas de las reglas de programación en Clean Code, extraídas del libro de Uncle Bob. &lt;/p&gt;
+&lt;p&gt;Para que funcione mejor, me aplico una serie de reglas que coinciden (no casualmente) con algunas de las reglas de programación en Clean Code, extraídas del libro de Uncle Bob.&lt;/p&gt;
 
 &lt;p&gt;Las funciones deben hacer una sola cosa, sin efectos colaterales ocultos, y su nombre debe describir lo que hace, esto facilita el testeo y reduce la posibilidad de que ocurran cosas inesperadas cuando usamos una determinada función en un contexto nuevo. Por ejemplo:&lt;/p&gt;
 
@@ -35,11 +35,11 @@
 &lt;p&gt;Mal&lt;/p&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;amasarPizza&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;masa_pizza&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;n&quot;&gt;agregar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;masa_pizza&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cebolla&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;agregar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;masa_pizza&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cebolla&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
     &lt;span class=&quot;no&quot;&gt;Rodillo&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;amasar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;masa_pizza&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Los nombres de las funciones deben ser verbos y deben ser nombres concretos, las vaguedades te dan vía libre a crear acoplamientos innecesarios y en general a crear código que es difícil de testear, debugar y mantener. &lt;/p&gt;
+&lt;p&gt;Los nombres de las funciones deben ser verbos y deben ser nombres concretos, las vaguedades te dan vía libre a crear acoplamientos innecesarios y en general a crear código que es difícil de testear, debugar y mantener.&lt;/p&gt;
 
 &lt;p&gt;Bien&lt;/p&gt;
 
@@ -49,9 +49,9 @@
 
 &lt;p&gt;Mal&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Lo se, es una exageración &lt;/span&gt;
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;c1&quot;&gt;# Lo sé, es una exageración&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;gestionar&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;empresa&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-    &lt;span class=&quot;err&quot;&gt;…&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Evitar el uso de nombres de variables de un solo carácter o con nombres graciosos o irrelevantes, es mejor usar nombres que describen lo que está pasando por que pueden ahorrar minutos valiosos de lectura.&lt;/p&gt;
@@ -64,9 +64,9 @@
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;pikachu&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;PI&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;radio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;Esta es difícil, especialmente porque no siempre es posible, cuantos menos parámetros tenga una función, será mucho más fácil escribir unit tests, esto se aprecia mejor cuando desarrollas usando técnicas de TDD. Te deseo suerte si decides testear una función con 5 parámetros.&lt;/p&gt;
+&lt;p&gt;Ésta es difícil, especialmente porque no siempre es posible, cuantos menos parámetros tenga una función, será mucho más fácil escribir unit tests, esto se aprecia mejor cuando desarrollas usando técnicas de TDD. Te deseo suerte si decides testear una función con 5 parámetros.&lt;/p&gt;
 
-&lt;p&gt;Si necesita comentarios es que hay una mejor forma de hacerlo. Esta es la más importante y la que resume mejor esta idea de programar.  Cuando abusamos de los comentarios, es porque nos damos cuenta que el código no es lo suficientemente expresivo para explicar por sí mismo lo que hace. Si me encuentro ante una situación así, me paro y pienso si hay una forma más sencilla de expresarme. A veces es difícil, a veces es fácil, a veces inevitable.&lt;/p&gt;
+&lt;p&gt;Si necesita comentarios es que hay una mejor forma de hacerlo. Ésta es la más importante y la que resume mejor esta idea de programar.  Cuando abusamos de los comentarios, es porque nos damos cuenta que el código no es lo suficientemente expresivo para explicar por sí mismo lo que hace. Si me encuentro ante una situación así, me paro y pienso si hay una forma más sencilla de expresarme. A veces es difícil, a veces es fácil, a veces inevitable.&lt;/p&gt;
 
 &lt;p&gt;Bien&lt;/p&gt;
 
@@ -92,11 +92,11 @@
     
       <item>
         <title>Hola mundo</title>
-        <description>&lt;p&gt;Hola mundo, he nacido. Soy un post nuevo que ve la luz, entrecierro los ojos para que no me deslumbre y uso mis pequeñas manos para proteger mis ojos mientras me acostumbro. Sé hablar, junto letras con cierto sentido y las separo en pequeños grupitos para que tú luego puedas darle un significado. Si no has salido corriendo a usar Google translator, quiere decir que estamos ya tenemos algo en común, me entiendes y eso es bueno, quiere decir que puedo expresarme y tú entenderme.&lt;/p&gt;
+        <description>&lt;p&gt;Hola mundo, he nacido. Soy un post nuevo que ve la luz, entrecierro los ojos para que no me deslumbre y uso mis pequeñas manos para proteger mis ojos mientras me acostumbro. Sé hablar, junto letras con cierto sentido y las separo en pequeños grupitos para que tú luego puedas darle un significado. Si no has salido corriendo a usar Google Translator, quiere decir que ya tenemos algo en común, me entiendes y eso es bueno, quiere decir que puedo expresarme y tú entenderme.&lt;/p&gt;
 
-&lt;p&gt;Han pasado unos segundos, soy un post, la luz ya no me deslumbra, me siento a duras penas y contemplo una sala vacía, sé hablar pero no hay nadie para recibir lo que tengo que decir y digo ‘Hola mundo’ a unas paredes que me devuelven el sonido mediante el eco. Me extraño por que estaba seguro que le hablaba a alguien, me rasco la cabeza, me encojo de hombros y vuelvo a sentir que alguien está leyendo lo que pienso. &lt;/p&gt;
+&lt;p&gt;Han pasado unos segundos, soy un post, la luz ya no me deslumbra, me siento a duras penas y contemplo una sala vacía, sé hablar pero no hay nadie para recibir lo que tengo que decir y digo ‘Hola mundo’ a unas paredes que me devuelven el sonido mediante el eco. Me extraño por que estaba seguro que le hablaba a alguien, me rasco la cabeza, me encojo de hombros y vuelvo a sentir que alguien está leyendo lo que pienso.&lt;/p&gt;
 
-&lt;p&gt;Ha pasado otro rato, puedo caminar y sigo siendo el mismo post. Ya no me importa si estoy solo o si no hay nadie para escucharme, aunque sepa hablar no necesito hablar, estoy convencido que alguien lee lo que ocurre dentro de mi y ya no me siento solo. &lt;/p&gt;
+&lt;p&gt;Ha pasado otro rato, puedo caminar y sigo siendo el mismo post. Ya no me importa si estoy solo o si no hay nadie para escucharme, aunque sepa hablar no necesito hablar, estoy convencido que alguien lee lo que ocurre dentro de mi y ya no me siento solo.&lt;/p&gt;
 
 &lt;p&gt;Vuelve a pasar el tiempo, me siento débil, creo que estoy muriendo, lo sé por que has perdido el interés, pero no importa por que tarde o temprano alguien más volverá a leer ‘Hola mundo’ y volveré a nacer. Antes de que pierdas el interés del todo y me olvides, te dejo una foto que me hicieron cuando nací.&lt;/p&gt;
 
